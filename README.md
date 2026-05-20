@@ -4,9 +4,10 @@
   </a>
 </p>
 
-<div align="center">
-  
-🌱 I'm a 2D Artist learning front-end
+<p align="center">
+  🌱 I'm a 2D Artist learning front-end
+</p>
 
-
-💬 HTML, CSS, Javascript, React, Typescript
+<p align="center">
+  💬 HTML, CSS, Javascript, React, Typescript
+</p>
